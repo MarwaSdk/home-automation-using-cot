@@ -82,13 +82,9 @@ The grading of the server was tested using [SSLlabs](https://www.ssllabs.com/), 
 ## Screenshots
 ![Alt text](./imgs/application.png)
 ## Further Readings
-You can find more information and take a look at the architecture design with the following documents:
--  [User Guide](docs/User%20Guide.pdf)
+More details about is project are available in the following documents :
+-  [User Guide](docs/scope%20statement.pdf)
 -  [Design Document](docs/Design%20Document.pdf)
 ## Contribution
-This project was developed as part of our Cloud of Things project at Sup'Com.
-
-<a href="https://github.com/GhaziXX/Home-Automation-using-CoT/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=GhaziXX/Home-Automation-using-CoT" width=100/>
-</a>
+This project was developed bt Marwa Sadkaoui and Arij Flihi as part of a Cloud of Things project at Sup'Com.
 
